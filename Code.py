@@ -2,22 +2,15 @@
 # coding: utf-8
 
 # In[2]:
-
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
 # In[3]:
-
-
 claimsds = pd.read_csv(r"C:\Users\dell\Documents\Data Science\Excel\Capstone02\Auto_Insurance_Claims_MasterData.csv", header =0)
 
 
 # In[4]:
-
-
 claimsds.head()
 
 
