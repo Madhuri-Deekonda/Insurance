@@ -276,8 +276,6 @@ print("Recall:",metrics.recall_score(y_test,y_preds2))
 print("f1-score:",metrics.f1_score(y_test,y_preds2))
 
 
-# In[ ]:
-
 
 
 
